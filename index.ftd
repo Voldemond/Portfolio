@@ -86,7 +86,12 @@ secondTitle: developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: An avid explorer of the vast realm of technology. 
+Currently pursuing my B.E. in IT from Mumbai University, 
+I'm on an exhilarating journey of learning and embracing the wonders of new technologies. 
+💡 Knowledgeable, performance-driven, and a stickler for details, 
+I'm an IT enthusiast with an insatiable thirst for growth. 
+I thrive on challenges and strive to push my limits to conquer new horizons in my career. 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -207,23 +212,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://linkedin.com/in/kunal-more-8a901a216\
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Voldemond
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/Voldemond
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://instagram.com/vold_13
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:morekunal1335@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
