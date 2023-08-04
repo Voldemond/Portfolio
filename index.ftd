@@ -88,7 +88,7 @@ secondTitle: developer
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: 👋 Hey there! I'm an avid explorer of the vast realm of technology. Currently pursuing my B.E. in IT from Mumbai University, I'm on an exhilarating journey of learning and embracing the wonders of new technologies. 💡 Knowledgeable, performance-driven, and a stickler for details, I'm an IT enthusiast with an insatiable thirst for growth. I thrive on challenges and strive to push my limits to conquer new horizons in my career. 
+-- ftd.text: 👋 Hey there! I'm an avid explorer of the vast realm of technology. Currently pursuing my B.E. in IT from Mumbai University, I'm on an exhilarating journey of learning and embracing the wonders of new technologies. 💡 Knowledgeable, performance-driven, and a stickler for details, I'm an IT enthusiast with an insatiable thirst for growth.I thrive on challenges and strive to push my limits to conquer new horizons in my career. 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
