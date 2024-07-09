@@ -77,18 +77,24 @@ align-self: center
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: Kunal More,
+  firstTitle: Kunal More:
+  secondTitle: Innovating Through
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: Backend
-secondTitle: developer
+  firstTitle: Backend
+  secondTitle: Development
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: explorer.
+  firstTitle: and
+  secondTitle: Technology Exploration
 
--- ftd.text: 👋 Hey there! I'm an avid explorer of the vast realm of technology. Currently pursuing my B.E. in IT from Mumbai University, I'm on an exhilarating journey of learning and embracing the wonders of new technologies. 💡 Knowledgeable, performance-driven, and a stickler for details, I'm an IT enthusiast with an insatiable thirst for growth.I thrive on challenges and strive to push my limits to conquer new horizons in my career. 
+-- ftd.text: 👋 Hi there! I'm a passionate and driven individual with a strong focus on backend development, DevOps, and cutting-edge technologies like blockchain and Web 3.0. 💻
+
+🎓 Throughout my academic journey and internship experiences, I've honed my skills in programming languages such as Java, Python, and JavaScript. I'm proficient in frameworks like Spring, Hibernate, and React, making me adept at building robust and scalable applications.
+
+🚀 My hands-on experience extends to AWS services, where I've leveraged cloud computing to deploy and manage applications efficiently. I'm also deeply interested in machine learning, exploring its applications in enhancing user experiences and optimizing business processes.
+
+🌐 I'm excited about the future of technology and committed to staying at the forefront of innovation. Let's connect and explore how we can shape the digital landscape together! 
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
